@@ -1,0 +1,15 @@
+# Canary :45 -- asks GitHub to run this every hour at minute 45 and does nothing else.
+# The measurement is not what this job prints; it is when GitHub creates the run, read back
+# from the Actions API by scripts/collect.mjs and compared with the minute it was asked for.
+name: "canary :45"
+on:
+  schedule:
+    - cron: '45 * * * *'
+  workflow_dispatch:
+permissions: {}
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - run: echo "canary :45 ran at $(date -u +%FT%TZ) for schedule '${{ github.event.schedule }}' (event ${{ github.event_name }})"

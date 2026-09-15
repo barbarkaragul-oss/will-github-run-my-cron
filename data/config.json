@@ -1,0 +1,47 @@
+{
+  "observe_from": "2026-09-15T09:00:00Z",
+  "note": "Ticks before observe_from are not expected to exist; the canaries were committed then.",
+  "settle_hours": 24,
+  "canaries": [
+    {
+      "file": "canary-00.yml",
+      "cron": "0 * * * *",
+      "label": ":00"
+    },
+    {
+      "file": "canary-05.yml",
+      "cron": "5 * * * *",
+      "label": ":05"
+    },
+    {
+      "file": "canary-15.yml",
+      "cron": "15 * * * *",
+      "label": ":15"
+    },
+    {
+      "file": "canary-17.yml",
+      "cron": "17 * * * *",
+      "label": ":17"
+    },
+    {
+      "file": "canary-30.yml",
+      "cron": "30 * * * *",
+      "label": ":30"
+    },
+    {
+      "file": "canary-37.yml",
+      "cron": "37 * * * *",
+      "label": ":37"
+    },
+    {
+      "file": "canary-45.yml",
+      "cron": "45 * * * *",
+      "label": ":45"
+    },
+    {
+      "file": "canary-53.yml",
+      "cron": "53 * * * *",
+      "label": ":53"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+# Reads the canaries' scheduled runs back from the Actions API, scores every tick, commits data/.
+#
+# This workflow is scheduled too, so it is exposed to the very thing it measures: GitHub may run
+# it late or not at all. That does not corrupt the data (the ticks are computed from the crons,
+# not from when this ran), it only delays the update. An external cron on our own server
+# dispatches it if it has not run in two days, the same way the other repositories are backstopped.
+name: Collect
+on:
+  schedule:
+    - cron: '23 */6 * * *'   # four times a day, off the top of the hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - run: npm test
+      - name: Score every tick
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/collect.mjs --repo "${{ github.repository }}" | tee collect.log
+      - name: Commit the data if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
+          git commit -m "data: $(sed -n 2p collect.log)"
+          git push
