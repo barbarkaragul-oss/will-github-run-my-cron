@@ -1,6 +1,6 @@
 {
-  "observe_from": "2026-09-15T09:00:00Z",
-  "note": "Ticks before observe_from are not expected to exist; the canaries were committed then.",
+  "observe_from": "2026-09-15T10:00:00Z",
+  "note": "The canaries were pushed shortly before this; ticks before it are not expected to exist.",
   "settle_hours": 24,
   "canaries": [
     {
