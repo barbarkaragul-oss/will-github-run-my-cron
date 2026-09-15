@@ -46,7 +46,7 @@ Every decision the collector makes is a pure function in [`src/ticks.mjs`](src/t
 
 ## Limits
 
-- **One account, and a new one.** Everything here describes what GitHub did for this account: personal, free plan, created in September 2026. A discussion linked above suggests newer accounts fare worse; we cannot test that from one account. See below for how you can.
+- **One account.** Everything here describes what GitHub did for this one personal account, created in November 2025 (about ten months before the canaries started), with a dozen public repositories and no organisation. A discussion linked above wonders whether account age matters; one account cannot answer that. See below for how you can.
 - **Hourly only, for now.** Daily crons at popular times (`0 0 * * *`, `0 6 * * *`) are the next canaries to add once the hourly picture is clear.
 - **A very late run is scored against a later tick.** If GitHub creates the `09:00` run at `14:03`, the collector cannot tell that from a `14:00` run that was three minutes late, so it records a drop at `09:00` and a 180-second delay at `14:00`. This under-reports extreme delays and over-reports drops by the same amount. The raw runs are in `data/runs.json` if you want to score it differently.
 - **The canaries can be disabled by GitHub.** In a public repository, scheduled workflows are automatically disabled when no repository activity has occurred in 60 days. The collector's commits are activity, so this should not happen; if it does, it will show up as every canary dropping at once, and the collector's own run history will say why.
