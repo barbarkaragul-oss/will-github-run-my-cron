@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T06:44:55.065Z",
+  "generated_at": "2026-11-16T22:17:01.068Z",
   "repo": "barbarkaragul-oss/will-github-run-my-cron",
   "observe_from": "2026-09-15T10:00:00Z",
   "settle_hours": 24,
@@ -107331,7 +107331,7 @@
     {
       "canary": ":45",
       "tick": "2026-11-15T06:45:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107339,7 +107339,7 @@
     {
       "canary": ":53",
       "tick": "2026-11-15T06:53:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107347,7 +107347,7 @@
     {
       "canary": ":00",
       "tick": "2026-11-15T07:00:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107355,7 +107355,7 @@
     {
       "canary": ":05",
       "tick": "2026-11-15T07:05:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107363,7 +107363,7 @@
     {
       "canary": ":15",
       "tick": "2026-11-15T07:15:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107371,7 +107371,7 @@
     {
       "canary": ":17",
       "tick": "2026-11-15T07:17:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107379,7 +107379,7 @@
     {
       "canary": ":30",
       "tick": "2026-11-15T07:30:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107387,7 +107387,7 @@
     {
       "canary": ":37",
       "tick": "2026-11-15T07:37:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107395,7 +107395,7 @@
     {
       "canary": ":45",
       "tick": "2026-11-15T07:45:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107403,7 +107403,7 @@
     {
       "canary": ":53",
       "tick": "2026-11-15T07:53:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107425,7 +107425,7 @@
     {
       "canary": ":05",
       "tick": "2026-11-15T08:05:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107433,7 +107433,7 @@
     {
       "canary": ":15",
       "tick": "2026-11-15T08:15:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107441,7 +107441,7 @@
     {
       "canary": ":17",
       "tick": "2026-11-15T08:17:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107449,7 +107449,7 @@
     {
       "canary": ":30",
       "tick": "2026-11-15T08:30:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107457,7 +107457,7 @@
     {
       "canary": ":37",
       "tick": "2026-11-15T08:37:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107465,7 +107465,7 @@
     {
       "canary": ":45",
       "tick": "2026-11-15T08:45:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107473,7 +107473,7 @@
     {
       "canary": ":53",
       "tick": "2026-11-15T08:53:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107481,7 +107481,7 @@
     {
       "canary": ":00",
       "tick": "2026-11-15T09:00:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107531,7 +107531,7 @@
     {
       "canary": ":30",
       "tick": "2026-11-15T09:30:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107539,7 +107539,7 @@
     {
       "canary": ":37",
       "tick": "2026-11-15T09:37:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107547,7 +107547,7 @@
     {
       "canary": ":45",
       "tick": "2026-11-15T09:45:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107555,7 +107555,7 @@
     {
       "canary": ":53",
       "tick": "2026-11-15T09:53:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107563,7 +107563,7 @@
     {
       "canary": ":00",
       "tick": "2026-11-15T10:00:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107571,7 +107571,7 @@
     {
       "canary": ":05",
       "tick": "2026-11-15T10:05:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107579,7 +107579,7 @@
     {
       "canary": ":15",
       "tick": "2026-11-15T10:15:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107587,7 +107587,7 @@
     {
       "canary": ":17",
       "tick": "2026-11-15T10:17:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107651,7 +107651,7 @@
     {
       "canary": ":00",
       "tick": "2026-11-15T11:00:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107659,7 +107659,7 @@
     {
       "canary": ":05",
       "tick": "2026-11-15T11:05:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107667,7 +107667,7 @@
     {
       "canary": ":15",
       "tick": "2026-11-15T11:15:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107675,7 +107675,7 @@
     {
       "canary": ":17",
       "tick": "2026-11-15T11:17:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107683,7 +107683,7 @@
     {
       "canary": ":30",
       "tick": "2026-11-15T11:30:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107691,7 +107691,7 @@
     {
       "canary": ":37",
       "tick": "2026-11-15T11:37:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107699,7 +107699,7 @@
     {
       "canary": ":45",
       "tick": "2026-11-15T11:45:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107707,7 +107707,7 @@
     {
       "canary": ":53",
       "tick": "2026-11-15T11:53:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107715,7 +107715,7 @@
     {
       "canary": ":00",
       "tick": "2026-11-15T12:00:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107723,7 +107723,7 @@
     {
       "canary": ":05",
       "tick": "2026-11-15T12:05:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107731,7 +107731,7 @@
     {
       "canary": ":15",
       "tick": "2026-11-15T12:15:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107739,7 +107739,7 @@
     {
       "canary": ":17",
       "tick": "2026-11-15T12:17:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107747,7 +107747,7 @@
     {
       "canary": ":30",
       "tick": "2026-11-15T12:30:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107755,7 +107755,7 @@
     {
       "canary": ":37",
       "tick": "2026-11-15T12:37:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107763,7 +107763,7 @@
     {
       "canary": ":45",
       "tick": "2026-11-15T12:45:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107771,7 +107771,7 @@
     {
       "canary": ":53",
       "tick": "2026-11-15T12:53:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107779,7 +107779,7 @@
     {
       "canary": ":00",
       "tick": "2026-11-15T13:00:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107787,7 +107787,7 @@
     {
       "canary": ":05",
       "tick": "2026-11-15T13:05:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107795,7 +107795,7 @@
     {
       "canary": ":15",
       "tick": "2026-11-15T13:15:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107803,7 +107803,7 @@
     {
       "canary": ":17",
       "tick": "2026-11-15T13:17:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107811,7 +107811,7 @@
     {
       "canary": ":30",
       "tick": "2026-11-15T13:30:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107819,7 +107819,7 @@
     {
       "canary": ":37",
       "tick": "2026-11-15T13:37:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107827,7 +107827,7 @@
     {
       "canary": ":45",
       "tick": "2026-11-15T13:45:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107835,7 +107835,7 @@
     {
       "canary": ":53",
       "tick": "2026-11-15T13:53:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107843,7 +107843,7 @@
     {
       "canary": ":00",
       "tick": "2026-11-15T14:00:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107851,7 +107851,7 @@
     {
       "canary": ":05",
       "tick": "2026-11-15T14:05:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107859,7 +107859,7 @@
     {
       "canary": ":15",
       "tick": "2026-11-15T14:15:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107867,7 +107867,7 @@
     {
       "canary": ":17",
       "tick": "2026-11-15T14:17:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107875,7 +107875,7 @@
     {
       "canary": ":30",
       "tick": "2026-11-15T14:30:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107883,7 +107883,7 @@
     {
       "canary": ":37",
       "tick": "2026-11-15T14:37:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107891,7 +107891,7 @@
     {
       "canary": ":45",
       "tick": "2026-11-15T14:45:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107899,7 +107899,7 @@
     {
       "canary": ":53",
       "tick": "2026-11-15T14:53:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107907,7 +107907,7 @@
     {
       "canary": ":00",
       "tick": "2026-11-15T15:00:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107915,7 +107915,7 @@
     {
       "canary": ":05",
       "tick": "2026-11-15T15:05:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107923,7 +107923,7 @@
     {
       "canary": ":15",
       "tick": "2026-11-15T15:15:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107931,7 +107931,7 @@
     {
       "canary": ":17",
       "tick": "2026-11-15T15:17:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107939,7 +107939,7 @@
     {
       "canary": ":30",
       "tick": "2026-11-15T15:30:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107947,7 +107947,7 @@
     {
       "canary": ":37",
       "tick": "2026-11-15T15:37:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107955,7 +107955,7 @@
     {
       "canary": ":45",
       "tick": "2026-11-15T15:45:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -107963,7 +107963,7 @@
     {
       "canary": ":53",
       "tick": "2026-11-15T15:53:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108027,7 +108027,7 @@
     {
       "canary": ":30",
       "tick": "2026-11-15T16:30:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108035,7 +108035,7 @@
     {
       "canary": ":37",
       "tick": "2026-11-15T16:37:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108043,7 +108043,7 @@
     {
       "canary": ":45",
       "tick": "2026-11-15T16:45:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108051,7 +108051,7 @@
     {
       "canary": ":53",
       "tick": "2026-11-15T16:53:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108059,7 +108059,7 @@
     {
       "canary": ":00",
       "tick": "2026-11-15T17:00:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108067,7 +108067,7 @@
     {
       "canary": ":05",
       "tick": "2026-11-15T17:05:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108075,7 +108075,7 @@
     {
       "canary": ":15",
       "tick": "2026-11-15T17:15:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108083,7 +108083,7 @@
     {
       "canary": ":17",
       "tick": "2026-11-15T17:17:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108147,7 +108147,7 @@
     {
       "canary": ":00",
       "tick": "2026-11-15T18:00:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108155,7 +108155,7 @@
     {
       "canary": ":05",
       "tick": "2026-11-15T18:05:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108163,7 +108163,7 @@
     {
       "canary": ":15",
       "tick": "2026-11-15T18:15:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108171,7 +108171,7 @@
     {
       "canary": ":17",
       "tick": "2026-11-15T18:17:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108179,7 +108179,7 @@
     {
       "canary": ":30",
       "tick": "2026-11-15T18:30:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108187,7 +108187,7 @@
     {
       "canary": ":37",
       "tick": "2026-11-15T18:37:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108195,7 +108195,7 @@
     {
       "canary": ":45",
       "tick": "2026-11-15T18:45:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108203,7 +108203,7 @@
     {
       "canary": ":53",
       "tick": "2026-11-15T18:53:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108211,7 +108211,7 @@
     {
       "canary": ":00",
       "tick": "2026-11-15T19:00:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108219,7 +108219,7 @@
     {
       "canary": ":05",
       "tick": "2026-11-15T19:05:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108227,7 +108227,7 @@
     {
       "canary": ":15",
       "tick": "2026-11-15T19:15:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108235,7 +108235,7 @@
     {
       "canary": ":17",
       "tick": "2026-11-15T19:17:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108243,7 +108243,7 @@
     {
       "canary": ":30",
       "tick": "2026-11-15T19:30:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108251,7 +108251,7 @@
     {
       "canary": ":37",
       "tick": "2026-11-15T19:37:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108259,7 +108259,7 @@
     {
       "canary": ":45",
       "tick": "2026-11-15T19:45:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108267,7 +108267,7 @@
     {
       "canary": ":53",
       "tick": "2026-11-15T19:53:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108275,7 +108275,7 @@
     {
       "canary": ":00",
       "tick": "2026-11-15T20:00:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108283,7 +108283,7 @@
     {
       "canary": ":05",
       "tick": "2026-11-15T20:05:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108291,7 +108291,7 @@
     {
       "canary": ":15",
       "tick": "2026-11-15T20:15:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108299,7 +108299,7 @@
     {
       "canary": ":17",
       "tick": "2026-11-15T20:17:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108307,7 +108307,7 @@
     {
       "canary": ":30",
       "tick": "2026-11-15T20:30:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108315,7 +108315,7 @@
     {
       "canary": ":37",
       "tick": "2026-11-15T20:37:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108323,7 +108323,7 @@
     {
       "canary": ":45",
       "tick": "2026-11-15T20:45:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108331,7 +108331,7 @@
     {
       "canary": ":53",
       "tick": "2026-11-15T20:53:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108395,7 +108395,7 @@
     {
       "canary": ":30",
       "tick": "2026-11-15T21:30:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108403,7 +108403,7 @@
     {
       "canary": ":37",
       "tick": "2026-11-15T21:37:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108411,7 +108411,7 @@
     {
       "canary": ":45",
       "tick": "2026-11-15T21:45:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108419,7 +108419,7 @@
     {
       "canary": ":53",
       "tick": "2026-11-15T21:53:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108427,7 +108427,7 @@
     {
       "canary": ":00",
       "tick": "2026-11-15T22:00:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108435,7 +108435,7 @@
     {
       "canary": ":05",
       "tick": "2026-11-15T22:05:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108443,7 +108443,7 @@
     {
       "canary": ":15",
       "tick": "2026-11-15T22:15:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -108451,7 +108451,7 @@
     {
       "canary": ":17",
       "tick": "2026-11-15T22:17:00.000Z",
-      "state": "pending",
+      "state": "dropped",
       "delay_s": null,
       "run": null,
       "extra_runs": []
@@ -109051,6 +109051,1086 @@
     {
       "canary": ":37",
       "tick": "2026-11-16T06:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T06:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T06:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T07:00:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T07:05:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T07:15:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T07:17:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T07:30:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T07:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T07:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T07:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T08:00:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T08:05:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T08:15:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T08:17:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T08:30:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T08:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T08:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T08:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T09:00:00.000Z",
+      "state": "ran",
+      "delay_s": 529,
+      "run": {
+        "id": 43837120137,
+        "created_at": "2026-11-16T09:08:49Z",
+        "run_started_at": "2026-11-16T09:08:49Z",
+        "conclusion": "success",
+        "html_url": "https://github.com/barbarkaragul-oss/will-github-run-my-cron/actions/runs/43837120137"
+      },
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T09:05:00.000Z",
+      "state": "ran",
+      "delay_s": 1320,
+      "run": {
+        "id": 43839830912,
+        "created_at": "2026-11-16T09:27:00Z",
+        "run_started_at": "2026-11-16T09:27:00Z",
+        "conclusion": "success",
+        "html_url": "https://github.com/barbarkaragul-oss/will-github-run-my-cron/actions/runs/43839830912"
+      },
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T09:15:00.000Z",
+      "state": "ran",
+      "delay_s": 1222,
+      "run": {
+        "id": 43841093819,
+        "created_at": "2026-11-16T09:35:22Z",
+        "run_started_at": "2026-11-16T09:35:22Z",
+        "conclusion": "success",
+        "html_url": "https://github.com/barbarkaragul-oss/will-github-run-my-cron/actions/runs/43841093819"
+      },
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T09:17:00.000Z",
+      "state": "ran",
+      "delay_s": 1171,
+      "run": {
+        "id": 43841255753,
+        "created_at": "2026-11-16T09:36:31Z",
+        "run_started_at": "2026-11-16T09:36:31Z",
+        "conclusion": "success",
+        "html_url": "https://github.com/barbarkaragul-oss/will-github-run-my-cron/actions/runs/43841255753"
+      },
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T09:30:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T09:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T09:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T09:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T10:00:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T10:05:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T10:15:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T10:17:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T10:30:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T10:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T10:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T10:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T11:00:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T11:05:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T11:15:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T11:17:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T11:30:00.000Z",
+      "state": "ran",
+      "delay_s": 1359,
+      "run": {
+        "id": 43861561389,
+        "created_at": "2026-11-16T11:52:39Z",
+        "run_started_at": "2026-11-16T11:52:39Z",
+        "conclusion": "success",
+        "html_url": "https://github.com/barbarkaragul-oss/will-github-run-my-cron/actions/runs/43861561389"
+      },
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T11:37:00.000Z",
+      "state": "ran",
+      "delay_s": 1269,
+      "run": {
+        "id": 43862351375,
+        "created_at": "2026-11-16T11:58:09Z",
+        "run_started_at": "2026-11-16T11:58:09Z",
+        "conclusion": "success",
+        "html_url": "https://github.com/barbarkaragul-oss/will-github-run-my-cron/actions/runs/43862351375"
+      },
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T11:45:00.000Z",
+      "state": "ran",
+      "delay_s": 971,
+      "run": {
+        "id": 43862802810,
+        "created_at": "2026-11-16T12:01:11Z",
+        "run_started_at": "2026-11-16T12:01:11Z",
+        "conclusion": "success",
+        "html_url": "https://github.com/barbarkaragul-oss/will-github-run-my-cron/actions/runs/43862802810"
+      },
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T11:53:00.000Z",
+      "state": "ran",
+      "delay_s": 760,
+      "run": {
+        "id": 43863449131,
+        "created_at": "2026-11-16T12:05:40Z",
+        "run_started_at": "2026-11-16T12:05:40Z",
+        "conclusion": "success",
+        "html_url": "https://github.com/barbarkaragul-oss/will-github-run-my-cron/actions/runs/43863449131"
+      },
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T12:00:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T12:05:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T12:15:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T12:17:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T12:30:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T12:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T12:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T12:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T13:00:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T13:05:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T13:15:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T13:17:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T13:30:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T13:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T13:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T13:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T14:00:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T14:05:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T14:15:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T14:17:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T14:30:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T14:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T14:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T14:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T15:00:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T15:05:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T15:15:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T15:17:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T15:30:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T15:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T15:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T15:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T16:00:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T16:05:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T16:15:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T16:17:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T16:30:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T16:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T16:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T16:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T17:00:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T17:05:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T17:15:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T17:17:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T17:30:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T17:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T17:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T17:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T18:00:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T18:05:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T18:15:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T18:17:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T18:30:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T18:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T18:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T18:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T19:00:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T19:05:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T19:15:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T19:17:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T19:30:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T19:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T19:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T19:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T20:00:00.000Z",
+      "state": "ran",
+      "delay_s": 217,
+      "run": {
+        "id": 43945799258,
+        "created_at": "2026-11-16T20:03:37Z",
+        "run_started_at": "2026-11-16T20:03:37Z",
+        "conclusion": "success",
+        "html_url": "https://github.com/barbarkaragul-oss/will-github-run-my-cron/actions/runs/43945799258"
+      },
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T20:05:00.000Z",
+      "state": "ran",
+      "delay_s": 771,
+      "run": {
+        "id": 43948306505,
+        "created_at": "2026-11-16T20:17:51Z",
+        "run_started_at": "2026-11-16T20:17:51Z",
+        "conclusion": "success",
+        "html_url": "https://github.com/barbarkaragul-oss/will-github-run-my-cron/actions/runs/43948306505"
+      },
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T20:15:00.000Z",
+      "state": "ran",
+      "delay_s": 590,
+      "run": {
+        "id": 43949514594,
+        "created_at": "2026-11-16T20:24:50Z",
+        "run_started_at": "2026-11-16T20:24:50Z",
+        "conclusion": "success",
+        "html_url": "https://github.com/barbarkaragul-oss/will-github-run-my-cron/actions/runs/43949514594"
+      },
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T20:17:00.000Z",
+      "state": "ran",
+      "delay_s": 523,
+      "run": {
+        "id": 43949668322,
+        "created_at": "2026-11-16T20:25:43Z",
+        "run_started_at": "2026-11-16T20:25:43Z",
+        "conclusion": "success",
+        "html_url": "https://github.com/barbarkaragul-oss/will-github-run-my-cron/actions/runs/43949668322"
+      },
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T20:30:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T20:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T20:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T20:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T21:00:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T21:05:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T21:15:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T21:17:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":30",
+      "tick": "2026-11-16T21:30:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":37",
+      "tick": "2026-11-16T21:37:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":45",
+      "tick": "2026-11-16T21:45:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":53",
+      "tick": "2026-11-16T21:53:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":00",
+      "tick": "2026-11-16T22:00:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":05",
+      "tick": "2026-11-16T22:05:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":15",
+      "tick": "2026-11-16T22:15:00.000Z",
+      "state": "pending",
+      "delay_s": null,
+      "run": null,
+      "extra_runs": []
+    },
+    {
+      "canary": ":17",
+      "tick": "2026-11-16T22:17:00.000Z",
       "state": "pending",
       "delay_s": null,
       "run": null,
